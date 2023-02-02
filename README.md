@@ -9,5 +9,5 @@
 
 
 ## Summary:
-* The summary addresses one drawback of this webpage 
-* The summary addresses two additional recommendations for further development 
+* One drawback of this webpage is getting the table data to load. 
+* Two recommendations for further development: additional styling with CSS to make text easier to read and changing the filters to drop down menus. 
