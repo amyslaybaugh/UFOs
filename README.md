@@ -9,5 +9,5 @@
 
 
 ## Summary:
-* One drawback of this webpage is getting the table data to load. 
+* One drawback of this webpage is a lack of a filter button. 
 * Two recommendations for further development: additional styling with CSS to make text easier to read and changing the filters to drop down menus. 
